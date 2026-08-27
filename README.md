@@ -1,8 +1,10 @@
+
 # 📄 ATS Resume Analyzer
 
 🔗 **Live demo:** [ats-resume-analyzer123.streamlit.app](https://ats-resume-analyzer123.streamlit.app)
 
-![ATS Resume Analyzer Demo](https://github.com/user-attachments/assets/f5eb1222-8cf1-4d8f-9a87-0e1cab24aae2)
+![ATS Resume Analyzer Demo](https://github.com/user-attachments/assets/18af5642-af1f-4ee3-81dc-cdd15c6ce8fa
+)
 
 
 ---
