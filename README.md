@@ -2,9 +2,8 @@
 
 🔗 **Live demo:** [ats-resume-analyzer123.streamlit.app](https://ats-resume-analyzer123.streamlit.app)
 
-![ATS Resume Analyzer Demo](https://github.com/user-attachments/assets/2077b520-84a5-44ca-b84d-e23f94758447)
+![ATS Resume Analyzer Demo](https://github.com/user-attachments/assets/f5eb1222-8cf1-4d8f-9a87-0e1cab24aae2)
 
-▶️ [Watch the full demo video](https://github.com/user-attachments/assets/f5eb1222-8cf1-4d8f-9a87-0e1cab24aae2)
 
 ---
 A Streamlit app that scores resumes against a job description the way a
